@@ -181,8 +181,8 @@
 		"npc_dota_hero_nevermore"	"雜賀孫市"
 		"npc_dota_hero_nevermore_hype"	"雜賀党的首領歷代都稱孫市，戰國中後期名將，雜賀孫市是擅使鐵炮的高手。紀伊的雜賀眾出身。當信長攻打一揆眾的本據地‧伊勢長島時，雜賀眾力挺一揆眾，組織鐵砲隊痛擊織田軍促使敗退。歷史上孫市的真實身份不詳，一說為鈴木重秀，另一說為重朝。重秀曾在石山合戰，僅僅以100人規模的鐵砲隊重創織田軍，又介於本願寺之間，在山崎之戰大為活躍，後來也參加秀吉的紀州攻略戰；重朝在關原西軍中於成功攻下伏見城，曾投靠政宗，爾後則成為家康、賴房的臣下。"
 
-		"npc_dota_hero_windrunner"	"阿市"
-		"npc_dota_hero_windrunner_hype"	"織田信長的異母妹妹，是著名的悲劇女性，史書記載她是一位身高非常高的女性，也號稱是戰國第一美女。她先後被作為政治工具嫁給淺井長政和柴田勝家，但兩任丈夫都沒得好死，自己最終也和勝家一起在北之莊自焚而亡。"
+		"npc_dota_hero_puck"	"阿市"
+		"npc_dota_hero_puck_hype"	"織田信長的異母妹妹，是著名的悲劇女性，史書記載她是一位身高非常高的女性，也號稱是戰國第一美女。她先後被作為政治工具嫁給淺井長政和柴田勝家，但兩任丈夫都沒得好死，自己最終也和勝家一起在北之莊自焚而亡。"
 
 		"npc_dota_hero_earthshaker"	"秋山信友"
 		"npc_dota_hero_earthshaker_hype"	"與武田氏同族的甲婓源氏支流之一的秋山信任息子，是武田信義之弟加賀美遠滿的支流。1542年對已近習眾的身分諏訪賴重攻略成為他初次上陣的戰爭。1547年近攻伊奈福與城時，將敵將藤澤賴親捕獲後，取得重要的戰功，成為了50騎馬部隊的侍大將。之後的進攻木曾福島城後，被伊奈郡代提拔為率領250騎的大將。1572年信玄開始西上，信友以別動隊的大將率領3000兵向織田氏領地東美濃入侵，攻陷了岩村城。以後為岩村城城主，在東美濃方面作最前線防備。武田軍在1575年長篠之戰大敗，導致岩村城被孤立，11月織田信長親征包圍岩村城。信友確定沒有救援下向信長提議開城。但信友開城後，信長立即逮捕他，並在長良川與夫人以極刑處死，享年49歲。信友為智勇兼備的名將，其勇名稱為「武田的猛牛」。"
@@ -1208,14 +1208,6 @@
 		"DOTA_Tooltip_Ability_A01R_Description"	"召喚雷霆的威力，對周圍的敵人造成<font color='#5cb85c'>(75/150/225/300)</font>傷害，並且在接下來5秒，攻擊時有50% 的機會，對擊中目標周圍310內的所有敵軍，額外造成<font color='#5cb85c'>(80/110/140/170)</font>點的閃電傷害。 "
 		"DOTA_Tooltip_Ability_A01T"  "三河魂"
 		"DOTA_Tooltip_Ability_A01T_Description" "施放自身的王者之氣，能增加周圍友軍<font color='#5cb85c'>(15/25/35)</font>的防禦與加快生命回復速率<font color='#5cb85c'>(4/5/6)% </font>。持續7秒。 "
-	    "DOTA_Tooltip_Ability_A02W"  "蠍毒箭"
-		"DOTA_Tooltip_Ability_A02W_Description"	"在攻擊敵人時額外產生<font color='#5cb85c'>(15/30/45/60)</font>毒傷，並減緩<font color='#5cb85c'>(9/13/17/21)% </font>的移動速度與攻擊速度，持續4秒 。 "
-		"DOTA_Tooltip_Ability_A02E"	 "風之祈"
-		"DOTA_Tooltip_Ability_A02E_Description" "回復<font color='#5cb85c'>(100/200/300/400)</font>生命值，並增加<font color='#5cb85c'>(40/70/100/130)% </font>攻速速度，持續15秒。 "
-        "DOTA_Tooltip_Ability_A02R"	 "遊風行身"
-		"DOTA_Tooltip_Ability_A02R_Description" "降低所受到的法術傷害<font color='#5cb85c'>(7/13/19/25)% </font>，並且增加自身<font color='#5cb85c'>(6/9/12/15)% </font>總攻擊傷害。 "
-		"DOTA_Tooltip_Ability_A02T"	 "融影術"
-		"DOTA_Tooltip_Ability_A02T_Description"	"暫時轉化為持續隱形狀態，攻擊的時候不會現形，基礎攻速由1.8變為1.2，移動速度增加60。可持續<font color='#5cb85c'>(20/22/24)</font>秒。 "
         "DOTA_Tooltip_Ability_A03W"	 "計步蠱"
 		"DOTA_Tooltip_Ability_A03W_Description"	"在目標敵軍身上種下計步蠱，每秒造成25傷害，並減緩<font color='#5cb85c'>(30/50/70/90)% </font>攻速，在計步蠱的持續時間內，該敵軍每移動<font color='#5cb85c'>(600/500/400/300)</font>距離，便會額外多受115傷害。 計步蠱持續10秒。 "
 		"DOTA_Tooltip_Ability_A03E"  "蜘蛛化型"
@@ -2602,7 +2594,7 @@
 		"DOTA_Tooltip_Ability_C02W_old_Description" "對指定的方向斬出一道水波，讓距離800內所有敵人受到<font color='#5cb85c'>(250/350/450/550)</font>點傷害。區域範圍起始100，擴散至300。浩浩蕩蕩，沛然無匹，刀光所到，當者披靡。"
 
 		"DOTA_Tooltip_Ability_C02E_old" "吸魂"
-		"DOTA_Tooltip_Ability_C02E_old_Description" "吸收指定目標的生命本質，每0.5秒奪取<font color='#5cb85c'>(80/100/120/140)</font>生命值及<font color='#5cb85c'>(10/15/20/25)</font>法力。"
+		"DOTA_Tooltip_Ability_C02E_old_Description" "吸收指定目標的生命本質，每0.5秒奪取<font color='#5cb85c'>(160/200/240/280)</font>生命值及<font color='#5cb85c'>(10/15/20/25)</font>法力，可以吸收至最遠2000，會被魔免與視野消失時中斷。"
 
 		"DOTA_Tooltip_Ability_C02R_old" "鬼武者劍術"
 		"DOTA_Tooltip_Ability_C02R_old_Description" "攻擊時15% 造成<font color='#5cb85c'>(2.5/3/3.5/4)</font>倍傷害，並有<font color='#5cb85c'>(4/8/12/16)% </font>機會閃避攻擊。"
@@ -2673,5 +2665,28 @@
 
 		"DOTA_Tooltip_modifier_B21T_old" "不死鬼美濃"
 		"DOTA_Tooltip_modifier_B21T_old_Description" "提升攻擊力與護甲。"
+
+		// 稻姬
+
+		"npc_dota_hero_windrunner" "稻姬"
+		"npc_dota_hero_windrunner_hype" "本多忠勝之女，後成為德川家康的養女而嫁給真田幸村之兄，真田信之。遵從家康之意，全心擔任德川，真田兩家的溝通橋樑。關原之戰的前夜，真田家分裂成東西兩軍。真田昌幸、幸村父子在支持德川方的信之不在城中時，來訪欲進入沼田城，但稻姬以不開城門為回應，並親自立於陣頭，射箭以表拒絕。戰後，雖然有昌幸、幸村的事件，但忠勝仍然敢於向家康的直言，也是受到女兒的影響。"
+
+		"DOTA_Tooltip_Ability_A02W"  "蠍毒箭"
+		"DOTA_Tooltip_Ability_A02W_Description"	"法球效果，在攻擊敵人時額外產生<font color='#5cb85c'>(60/120/180/240)</font>毒傷，並減緩<font color='#5cb85c'>(9/13/17/21)% </font>的移動速度與攻擊速度，持續4秒。每下普攻消耗<font color='#5cb85c'>(8/12/16/20)</font>點魔力 "
+		"DOTA_Tooltip_Ability_A02E"	 "風之祈"
+		"DOTA_Tooltip_Ability_A02E_Description" "回復<font color='#5cb85c'>(100/200/300/400)</font>生命值，並增加<font color='#5cb85c'>(40/70/100/130)% </font>攻速速度，持續10秒。 "
+        "DOTA_Tooltip_Ability_A02R"	 "遊風行身"
+		"DOTA_Tooltip_Ability_A02R_Description" "降低所受到的法術傷害<font color='#5cb85c'>(7/13/19/25)% </font>，並且增加自身<font color='#5cb85c'>(6/9/12/15)% </font>總攻擊傷害。 "
+		"DOTA_Tooltip_Ability_A02T"	 "融影術"
+		"DOTA_Tooltip_Ability_A02T_Description"	"暫時轉化為持續隱形狀態，攻擊的時候不會現形，提昇至2倍基礎攻速，移動速度增加60。可持續<font color='#5cb85c'>(20/22/24)</font>秒。 "
+
+		"DOTA_Tooltip_modifier_A02W_debuff" "蠍毒箭"
+		"DOTA_Tooltip_modifier_A02W_debuff_Description" "降低移動與攻擊速度。"
+
+		"DOTA_Tooltip_modifier_A02E_buff" "風之祈"
+		"DOTA_Tooltip_modifier_A02E_buff_Description" "提升攻擊速度。"
+
+		"DOTA_Tooltip_modifier_A02T" "融影術"
+		"DOTA_Tooltip_modifier_A02T_Description" "隱形，提升基礎攻速與基礎跑速。"
 	}
 }
