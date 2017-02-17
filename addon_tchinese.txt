@@ -1148,13 +1148,13 @@
 		"DOTA_Tooltip_modifier_C17E_Description"	"祈勝光輝"
 		
 		"DOTA_Tooltip_Ability_C17W_old"	"光之精華"
-		"DOTA_Tooltip_Ability_C17W_old_Description" "回復範圍內友方部隊<font color='#f0ad4e'> (150/300/450/600) </font>生命點數。"
+		"DOTA_Tooltip_Ability_C17W_old_Description" "無視負面狀態的回復範圍內友方部隊<font color='#f0ad4e'>(150/300/450/600)</font>生命點數。"
 		"DOTA_Tooltip_Ability_C17E_old"	"魂之精華"
 		"DOTA_Tooltip_Ability_C17E_old_Description" "回復範圍內友方部隊<font color='#f0ad4e'> (100/200/300/400) </font>法力點數。"
 		"DOTA_Tooltip_Ability_C17R_old"	"靜滯陷阱"
 		"DOTA_Tooltip_Ability_C17R_old_Description" "放置一個將於2.5秒後隱形的靜滯陷阱。隱形後，敵人靠近275範圍時自動啟動，造成425範圍敵人<font color='#f0ad4e'> (3.5/4.5/5.5/6.5) </font>秒暈眩。"
 		"DOTA_Tooltip_Ability_C17T_old"	"極光守護"
-		"DOTA_Tooltip_Ability_C17T_old_Description" "延遲<font color='#f0ad4e'> (1.5/1/0.5) </font>秒後釋放出極光守護，對敵人造成<font color='#f0ad4e'>(900/1300/1800)</font>傷害，恢復友方部隊所有生命。"
+		"DOTA_Tooltip_Ability_C17T_old_Description" "延遲<font color='#f0ad4e'> (1.5/1/0.5) </font>秒後釋放出極光守護，對敵人造成<font color='#f0ad4e'>(900/1300/1800)</font>傷害，無視負面狀態的恢復友方部隊所有生命。"
 		"C17R_old_SUMMEND_UNIT" "靜滯陷阱"
 		
 		"com_ashigaru_spearmen_B"	"聯合軍-足輕"
@@ -1456,7 +1456,7 @@
 	    "DOTA_Tooltip_Ability_A25R"  "壓切"
 	    "DOTA_Tooltip_Ability_A25R_Description" "讓手上的名刀‧壓切更具殺傷力，增加<font color='#5cb85c'>(12/23/34/45)</font>攻擊傷害，有20% 機會在攻擊時造成<font color='#5cb85c'>(2.0/2.5/3.0/3.5)</font>倍的傷害。"
 	    "DOTA_Tooltip_Ability_A25T"  "障壁深紅"
-	    "DOTA_Tooltip_Ability_A25T_Description" "讓身邊環繞著障壁深紅的毀滅力量，將對魔法完全免疫，並且每秒對附近的敵軍造成<font color='#5cb85c'>(290/450/600)</font>傷害，持續7秒。飛濺而出的深紅旋風將每秒對周圍的敵軍造成60傷害。"
+	    "DOTA_Tooltip_Ability_A25T_Description" "讓身邊環繞著障壁深紅的毀滅力量，將對魔法完全免疫，並且每秒對附近的敵軍造成<font color='#5cb85c'>(290/450/600)</font>傷害，對非魔免單位造成2倍傷害，持續7秒。飛濺而出的深紅旋風將每秒對周圍的敵軍造成60傷害。"
 	    // 織田信長 11.2B
 	    "DOTA_Tooltip_Ability_A25D_old" "天下布武"
 	    "DOTA_Tooltip_Ability_A25D_old_Description" "當織田信長殺死一個英雄時，即可讓全軍增加15% 移動速度以及20% 攻擊速度，持續10秒。"
@@ -1467,7 +1467,7 @@
 	    "DOTA_Tooltip_Ability_A25R_old" "壓切"
 	    "DOTA_Tooltip_Ability_A25R_old_Description" "讓手上的名刀‧壓切更具殺傷力。增加<font color='#5cb85c'>(12/24/36/48)% </font>攻擊速度以及在攻擊時有20% 的機會，造成<font color='#5cb85c'>(2/2.5/3/3.5)</font>倍的傷害。"
 	    "DOTA_Tooltip_Ability_A25T_old" "障壁深紅"
-	    "DOTA_Tooltip_Ability_A25T_old_Description" "讓身邊環繞著障壁深紅的毀滅力量。獲得魔法免疫，並每秒對範圍350內的敵人及建築物造成<font color='#5cb85c'>(290/365/440)</font>點傷害。持續8秒。"
+	    "DOTA_Tooltip_Ability_A25T_old_Description" "讓身邊環繞著障壁深紅的毀滅力量。獲得魔法免疫，並每秒對範圍350內的敵人及建築物造成<font color='#5cb85c'>(290/365/440)</font>點傷害，對非魔免單位造成2倍傷害。持續8秒。"
 	    "DOTA_Tooltip_Ability_A26D"  "隱雷"
 	    "DOTA_Tooltip_Ability_A26D_Description" "在指定地點放置一個主地雷以及兩個額外地雷，在敵人踩過時引爆，可以造成350範圍傷害。額外地雷存在最多90秒。"
 	    "DOTA_Tooltip_Ability_A26W"  "連銃"
@@ -1483,7 +1483,7 @@
 	    "DOTA_Tooltip_Ability_A27W"  "破竹之勢"
 		"DOTA_Tooltip_Ability_A27W_Description" "造出一個自身的分身，分身可以造成本尊<font color='#5cb85c'>(25/35/45/55)% </font>傷害，受到250% 傷害，分身存在最多30秒。"
 	    "DOTA_Tooltip_Ability_A27E"  "柴田家戰旗"
-	    "DOTA_Tooltip_Ability_A27E_Description" "在指定的地點插下一支戰旗，戰旗將可以鼓舞周圍的友軍，使他們每秒回復<font color='#5cb85c'>(1/2/3/4)% </font>生命，並且對周圍友軍展開嗜血，使他們增加50% 攻擊速度，嗜血需要<font color='#5cb85c'>(10/7/4/1)</font>秒冷卻時間。 戰旗存在最多20秒。戰旗增加友軍50% 的攻擊速度，持續20秒。"
+	    "DOTA_Tooltip_Ability_A27E_Description" "在指定的地點插下一支戰旗，戰旗將可以鼓舞周圍的友軍，使他們無視負面狀態的每秒回復<font color='#5cb85c'>(1/2/3/4)% </font>生命，並且對周圍友軍展開嗜血，使他們增加50% 攻擊速度，嗜血需要<font color='#5cb85c'>(10/7/4/1)</font>秒冷卻時間。 戰旗存在最多20秒。戰旗增加友軍50% 的攻擊速度，持續20秒。"
 	    "DOTA_Tooltip_Ability_A27R"  "武者之道"
 	    "DOTA_Tooltip_Ability_A27R_Description" "在戰鬥中有<font color='#5cb85c'>(5/10/15/20)% </font>的機率造成2.5倍的傷害，並且使基礎跑速永久提升<font color='#5cb85c'>(25/31/37/43)</font>。"
 	    "DOTA_Tooltip_Ability_A27T"  "鬼柴田"
@@ -2672,7 +2672,7 @@
 		"npc_dota_hero_windrunner_hype" "本多忠勝之女，後成為德川家康的養女而嫁給真田幸村之兄，真田信之。遵從家康之意，全心擔任德川，真田兩家的溝通橋樑。關原之戰的前夜，真田家分裂成東西兩軍。真田昌幸、幸村父子在支持德川方的信之不在城中時，來訪欲進入沼田城，但稻姬以不開城門為回應，並親自立於陣頭，射箭以表拒絕。戰後，雖然有昌幸、幸村的事件，但忠勝仍然敢於向家康的直言，也是受到女兒的影響。"
 
 		"DOTA_Tooltip_Ability_A02W"  "蠍毒箭"
-		"DOTA_Tooltip_Ability_A02W_Description"	"法球效果，在攻擊敵人時額外產生<font color='#5cb85c'>(60/120/180/240)</font>毒傷，並減緩<font color='#5cb85c'>(9/13/17/21)% </font>的移動速度與攻擊速度，持續4秒。每下普攻消耗<font color='#5cb85c'>(8/12/16/20)</font>點魔力 "
+		"DOTA_Tooltip_Ability_A02W_Description"	"法球效果，在攻擊敵人時額外產生<font color='#5cb85c'>(50/80/110/140)</font>毒傷，並減緩<font color='#5cb85c'>(9/13/17/21)% </font>的移動速度與攻擊速度，持續4秒。每下普攻消耗<font color='#5cb85c'>(8/12/16/20)</font>點魔力 "
 		"DOTA_Tooltip_Ability_A02E"	 "風之祈"
 		"DOTA_Tooltip_Ability_A02E_Description" "回復<font color='#5cb85c'>(100/200/300/400)</font>生命值，並增加<font color='#5cb85c'>(40/70/100/130)% </font>攻速速度，持續10秒。 "
         "DOTA_Tooltip_Ability_A02R"	 "遊風行身"
@@ -2688,5 +2688,31 @@
 
 		"DOTA_Tooltip_modifier_A02T" "融影術"
 		"DOTA_Tooltip_modifier_A02T_Description" "隱形，提升基礎攻速與基礎跑速。"
+
+		// 稻姬 11.2B
+
+		"DOTA_Tooltip_Ability_A02W_old"  "蠍毒箭"
+		"DOTA_Tooltip_Ability_A02W_old_Description" "在攻擊敵人時額外產生<font color='#5cb85c'>(6/12/18/24)</font>點的毒傷，且無法回復生命，並減緩<font color='#5cb85c'>(3/5/7/9)% </font>移動速度與攻擊速度，每射一發需消耗<font color='#5cb85c'>(6/8/10/12)</font>點法力，持續<font color='#5cb85c'>(4/6/8/10)</font>秒。"
+
+		"DOTA_Tooltip_Ability_A02E_old"  "風之力"
+		"DOTA_Tooltip_Ability_A02E_old_Description" "增加友方部隊<font color='#5cb85c'>(30/50/70/90)% </font>的 攻擊速度和移動速度。持續15秒。"
+
+		"DOTA_Tooltip_Ability_A02R_old"  "自我恢復"
+		"DOTA_Tooltip_Ability_A02R_old_Description" "醫療指定的部隊<font color='#5cb85c'>(400/600/800/1000)</font>點的生命點數，醫療時間10秒。"
+
+		"DOTA_Tooltip_Ability_A02T_old"  "融影術"
+		"DOTA_Tooltip_Ability_A02T_old_Description" "暫時轉化為持續隱形狀態，攻擊的時不會現形，與2倍的基礎攻擊速度。可持續<font color='#5cb85c'>(14/16/18)</font>秒。"
+
+		"DOTA_Tooltip_modifier_A02W_old_debuff" "蠍毒箭"
+		"DOTA_Tooltip_modifier_A02W_old_debuff_Description" "降低移動與攻擊速度，持續造成傷害。"
+
+		"DOTA_Tooltip_modifier_A02E_old_buff" "風之力"
+		"DOTA_Tooltip_modifier_A02E_old_buff_Description" "提升攻擊與移動速度。"
+
+		"DOTA_Tooltip_modifier_A02R_old" "自我恢復"
+		"DOTA_Tooltip_modifier_A02R_old_Description" "提升生命回復速度。"
+
+		"DOTA_Tooltip_modifier_A02T_old" "融影術"
+		"DOTA_Tooltip_modifier_A02T_old_Description" "隱形，提升基礎攻速。"
 	}
 }
