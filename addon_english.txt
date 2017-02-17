@@ -99,8 +99,8 @@
 		
 		"DOTA_Lobby_Settings_Radiant"	"The Oda"
 		"DOTA_Lobby_Settings_Dire"	"The Unified"
-		"DOTA_Workshop_CourierIconRadiant"	"織田軍"
-		"DOTA_Workshop_CourierIconDire"	"聯合軍"
+		"DOTA_Workshop_CourierIconRadiant"	"The Oda"
+		"DOTA_Workshop_CourierIconDire"	"The Unified"
 		"dota_team_radiant"	"織田軍"
 		"dota_team_dire"	"聯合軍"
 		"DOTA_Lobby_Settings_Starting_Team_Radiant"	"織田軍"
@@ -2556,7 +2556,7 @@ Summon a huge rock to a certain point and deal 150 damage. The rock will remain 
 
 		"DOTA_Tooltip_Ability_C02W" "Mirage Surge"
 
-		"DOTA_Tooltip_Ability_C02W_Description" "Release a wave to a certain point, dealing <font color='#5cb85c'>(200/300/400/500)</font> damage to all the enemies hurted by wave. Id the damaged target is hero, then create its illusion. The illusion can deal 30% damage but take 300% damage."
+		"DOTA_Tooltip_Ability_C02W_Description" "Release a wave to a certain point, dealing <font color='#5cb85c'>(200/300/400/500)</font> damage to all the enemies hurted by wave. If the damaged target is hero, then create its illusion. The illusion can deal 30% damage but take 300% damage."
 
 		"DOTA_Tooltip_Ability_C02E" "Kawarimi"
 		"DOTA_Tooltip_Ability_C02E_Description" "Flash to 650 radius in front of you and remain a illusion, gainning <font color='#5cb85c'>(50/75/100/125)% </font> attack speed and 6% movement speed, last for <font color='#5cb85c'>(5/8/11/14)</font> seconds."
@@ -2564,7 +2564,7 @@ Summon a huge rock to a certain point and deal 150 damage. The rock will remain 
 		"DOTA_Tooltip_Ability_C02R" "Kyokasuigetsu"
 		"DOTA_Tooltip_Ability_C02R_Description" "(Passive) Has <font color='#5cb85c'>(7/12/17/22)%</font> chance to dodge attack and your attack can create a illusion which can deal 80% damage but take 300% damage, last for 8 seconds. This effect can be triggered every <font color='#5cb85c'>(20/16/12/8)</font> seconds."
 
-		"DOTA_Tooltip_Ability_C02T" "Eliminating Blade"
+		"DOTA_Tooltip_Ability_C02T" "Culling Slash"
 
 		"DOTA_Tooltip_Ability_C02T_Description" "A powerful slash which can eliminate the weaker. Kill an enemy instantly when its health lower than <font color='#5cb85c'>(600/750/900)</font>. If their health is higher than threshold value, dealing <font color='#5cb85c'>(450/600/750)</font> damage and stunning it for 2 seconds, and gain a passive ability "Tide Striker", your attack has 50% chance to deal <font color='#5cb85c'>(180/230/280)</font> true damage to all the nearby enemies."
 
@@ -2582,7 +2582,7 @@ Summon a huge rock to a certain point and deal 150 damage. The rock will remain 
 
 		// 明智秀滿 11.2B
 
-		"DOTA_Tooltip_Ability_C02W_old" "Water Wave"
+		"DOTA_Tooltip_Ability_C02W_old" "Wave of the Sea"
 
 		"DOTA_Tooltip_Ability_C02W_old_Description" "Release a water wave to a certain point, dealing <font color='#5cb85c'>(250/350/450/550)</font> magic damage to a 800 radius."
 
@@ -2592,7 +2592,7 @@ Summon a huge rock to a certain point and deal 150 damage. The rock will remain 
 		"DOTA_Tooltip_Ability_C02R_old" "Onimusha"
 		"DOTA_Tooltip_Ability_C02R_old_Description" "Your attack has 15% chance to deal <font color='#5cb85c'>(2.5/3/3.5/4)</font> times damage and <font color='#5cb85c'>(4/8/12/16)%</font> chance to dodge attack."
 
-		"DOTA_Tooltip_Ability_C02T_old" "Fiery Dragon Blade "
+		"DOTA_Tooltip_Ability_C02T_old" "Inferno Blaze"
 		"DOTA_Tooltip_Ability_C02T_old_Description" "Slash a certain enemy many times, dealing <font color='#5cb85c'>(1250/1500/1750)</font> magic damage to a certain enemy and in next 30 seconds your attack has 50% chance to deal <font color='#5cb85c'>(180/230/280)</font> magic damage in a 250 radius."
 	
 		"DOTA_Tooltip_modifier_C02E_old" "Soul Siphon"
@@ -2601,10 +2601,10 @@ Summon a huge rock to a certain point and deal 150 damage. The rock will remain 
 		"DOTA_Tooltip_modifier_C02R_old" "Onimusha"
 		"DOTA_Tooltip_modifier_C02R_old_Description" "Has chance to dodge, your attack can deal critical damage."
 
-		"DOTA_Tooltip_modifier_C02T_old_playing" "Fiery Dragon Blade "
+		"DOTA_Tooltip_modifier_C02T_old_playing" "Inferno Blazing"
 		"DOTA_Tooltip_modifier_C02T_old_playing_Description" "You cannot manipulate when in Animation."
 
-		"DOTA_Tooltip_modifier_C02T_old_aoe" "Fiery Dragon Blade "
+		"DOTA_Tooltip_modifier_C02T_old_aoe" "Fiery Blade"
 		"DOTA_Tooltip_modifier_C02T_old_aoe_Description" "Attack has chance to deal damage to all the nearby enemies."
 
 		// 馬場信房
@@ -2664,7 +2664,7 @@ Summon a huge rock to a certain point and deal 150 damage. The rock will remain 
 		"npc_dota_hero_windrunner" "稻姬"
 		"npc_dota_hero_windrunner_hype" "本多忠勝之女，後成為德川家康的養女而嫁給真田幸村之兄，真田信之。遵從家康之意，全心擔任德川，真田兩家的溝通橋樑。關原之戰的前夜，真田家分裂成東西兩軍。真田昌幸、幸村父子在支持德川方的信之不在城中時，來訪欲進入沼田城，但稻姬以不開城門為回應，並親自立於陣頭，射箭以表拒絕。戰後，雖然有昌幸、幸村的事件，但忠勝仍然敢於向家康的直言，也是受到女兒的影響。"
 
-		"DOTA_Tooltip_Ability_A02W"  "蠍毒箭"
+		"DOTA_Tooltip_Ability_A02W"  "Poison Arrow"
 		"DOTA_Tooltip_Ability_A02W_Description"	"法球效果，在攻擊敵人時額外產生<font color='#5cb85c'>(50/80/110/140)</font>毒傷，並減緩<font color='#5cb85c'>(9/13/17/21)% </font>的移動速度與攻擊速度，持續4秒。每下普攻消耗<font color='#5cb85c'>(8/12/16/20)</font>點魔力 "
 		"DOTA_Tooltip_Ability_A02E"	 "風之祈"
 		"DOTA_Tooltip_Ability_A02E_Description" "回復<font color='#5cb85c'>(100/200/300/400)</font>生命值，並增加<font color='#5cb85c'>(40/70/100/130)% </font>攻速速度，持續10秒。 "
