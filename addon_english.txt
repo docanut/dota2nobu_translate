@@ -97,8 +97,8 @@
 		"DOTA_Custom7"                          "Team Name 7"
 		"DOTA_Custom8"                          "Team Name 8"
 		
-		"DOTA_Lobby_Settings_Radiant"	"織田軍"
-		"DOTA_Lobby_Settings_Dire"	"聯合軍"
+		"DOTA_Lobby_Settings_Radiant"	"The Oda"
+		"DOTA_Lobby_Settings_Dire"	"The Unified"
 		"DOTA_Workshop_CourierIconRadiant"	"織田軍"
 		"DOTA_Workshop_CourierIconDire"	"聯合軍"
 		"dota_team_radiant"	"織田軍"
