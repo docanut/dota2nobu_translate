@@ -2707,5 +2707,28 @@ Summon a huge rock to a certain point and deal 150 damage. The rock will remain 
 
 		"DOTA_Tooltip_modifier_A02T_old" "融影術"
 		"DOTA_Tooltip_modifier_A02T_old_Description" "隱形，提升基礎攻速。"
+		
+		// 前田慶次
+
+		"npc_dota_hero_obsidian_destroyer" "前田慶次"
+		"npc_dota_hero_obsidian_destroyer_hype" "瀧川益重之子，前田利家之兄‧利久的養子，戰國第一傾奇者前田慶次，是一個放蕩不羈的人，人人害怕的太閣秀吉，他也不放在眼裡。前田家被利家繼承後，慶次就成為浪人之身，但後來歷經許多戰事，使他的威名遠播，縱騎愛馬松風揮舞長槍的英姿，往往令敵軍望之喪膽，然而，也因為他的習性太過於放蕩不羈，所以不被秀吉允許參加秀吉的九州遠征，不過，上杉景勝的左右手‧直江兼續非常欣賞他的才能，於是在上杉被佐渡的本間攻打時，他就轉而投向越後，後來返京成為風雅三昧，直到家康發起上杉討伐軍，才又回到上杉軍。據說在戰況最激烈之時，他僅以八騎衝入敵方的本陣，殺得敵軍四散而逃。"
+
+		"DOTA_Tooltip_Ability_C05W"  "松風"
+		"DOTA_Tooltip_Ability_C05W_Description"  "使自身增加<font color='#5cb85c'>(10/20/30/40)% </font>移動速度和<font color='#5cb85c'>(40/60/80/100)% </font>攻擊速度。持續20秒。"
+
+		"DOTA_Tooltip_Ability_C05E"  "雷舞"
+		"DOTA_Tooltip_Ability_C05E_Description"  "以跳躍迴旋之姿對周圍敵軍揮出飛躍的電球，每個電球在擊中時造成<font color='#5cb85c'>(200/300/400/500)</font>傷害。"
+
+		"DOTA_Tooltip_Ability_C05R"  "雷鳴豪槍"
+		"DOTA_Tooltip_Ability_C05R_Description"  "增加<font color='#5cb85c'>(15/25/35/45)</font>攻擊傷害，擊中敵人時能降低敵人<font color='#5cb85c'>(15/30/45/60)% </font>的攻速以及<font color='#5cb85c'>(10/13/16/20)% </font>移動速度，持續3秒。"
+
+		"DOTA_Tooltip_Ability_C05T"  "瞬雷閃"
+		"DOTA_Tooltip_Ability_C05T_Description"  "指定戰場上任一區域，<font color='#5cb85c'>(2.5/2/1.5)</font>秒後將利用瞬雷之力突破空間限制馬上到達該區域並發動攻擊，會造成範圍1秒暈眩以及<font color='#5cb85c'>(400/700/1000)</font>傷害，如果取消則CD減半。"
+
+		"DOTA_Tooltip_modifier_C05W_buff" "松風"
+		"DOTA_Tooltip_modifier_C05W_buff_Description" "提升攻擊與移動速度。"
+
+		"DOTA_Tooltip_modifier_C05R_debuff" "雷鳴豪槍"
+		"DOTA_Tooltip_modifier_C05R_debuff_Description" "降低移動與攻擊速度。"
 	}
 }
