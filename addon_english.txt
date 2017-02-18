@@ -2683,16 +2683,16 @@
 		// 稻姬 11.2B
 
 		"DOTA_Tooltip_Ability_A02W_old"  "Poisonous Arrow"
-		"DOTA_Tooltip_Ability_A02W_old_Description" "在攻擊敵人時額外產生<font color='#5cb85c'>(6/12/18/24)</font>點的毒傷，且無法回復生命，並減緩<font color='#5cb85c'>(3/5/7/9)% </font>移動速度與攻擊速度，每射一發需消耗<font color='#5cb85c'>(6/8/10/12)</font>點法力，持續<font color='#5cb85c'>(4/6/8/10)</font>秒。"
+		"DOTA_Tooltip_Ability_A02W_old_Description" "Attacks deal an additional <font color='#5cb85c'>(6/12/18/24)</font> damage of poison damage and blocks the ability to regenerate health, also slows the target's movement and attack speed by <font color='#5cb85c'>(3/5/7/9)% </font>. Each shot will expend <font color='#5cb85c'>(6/8/10/12)</font> mana points, lasts for <font color='#5cb85c'>(4/6/8/10)</font> seconds."
 
 		"DOTA_Tooltip_Ability_A02E_old"  "Power of the Wind"
-		"DOTA_Tooltip_Ability_A02E_old_Description" "增加友方部隊<font color='#5cb85c'>(30/50/70/90)% </font>的 攻擊速度和移動速度。持續15秒。"
+		"DOTA_Tooltip_Ability_A02E_old_Description" "Increases allies attack speed and movement speed by <font color='#5cb85c'>(30/50/70/90)% </font>, lasts 15 seconds."
 
 		"DOTA_Tooltip_Ability_A02R_old"  "Self Meditation"
-		"DOTA_Tooltip_Ability_A02R_old_Description" "醫療指定的部隊<font color='#5cb85c'>(400/600/800/1000)</font>點的生命點數，醫療時間10秒。"
+		"DOTA_Tooltip_Ability_A02R_old_Description" "Heals an ally target by <font color='#5cb85c'>(400/600/800/1000)</font> health points over 10 seconds."
 
 		"DOTA_Tooltip_Ability_A02T_old"  "Zephyr Spirit"
-		"DOTA_Tooltip_Ability_A02T_old_Description" "暫時轉化為持續隱形狀態，攻擊的時不會現形，與2倍的基礎攻擊速度。可持續<font color='#5cb85c'>(14/16/18)</font>秒。"
+		"DOTA_Tooltip_Ability_A02T_old_Description" "Temporary blends with the wind, remaining invisible. Attacks will not reveal your hero and doubles your basic attack speed. Lasts for <font color='#5cb85c'>(14/16/18)</font> seconds."
 
 		"DOTA_Tooltip_modifier_A02W_old_debuff" "Poisonous Arrow"
 		"DOTA_Tooltip_modifier_A02W_old_debuff_Description" "Decreased movement and attack speed, and is damaged over time."
