@@ -2728,5 +2728,28 @@
 
 		"DOTA_Tooltip_modifier_C05R_debuff" "雷鳴豪槍"
 		"DOTA_Tooltip_modifier_C05R_debuff_Description" "降低移動與攻擊速度。"
+
+		// 前田慶次 11.2B
+
+		"DOTA_Tooltip_Ability_C05W_old" "騎術"
+		"DOTA_Tooltip_Ability_C05W_old_Description" "增加<font color='#5cb85c'>(25/30/35/40)% </font>攻擊速度及移動速度。持續<font color='#5cb85c'>(14/16/18/20)</font>秒。"
+
+		"DOTA_Tooltip_Ability_C05E_old" "雷舞"
+		"DOTA_Tooltip_Ability_C05E_old_Description" "對400範圍內的敵人造成<font color='#5cb85c'>(100/200/300/400)</font>點傷害，並降低<font color='#5cb85c'>(20/30/40/50)% </font>攻擊及移動速度，持續4秒。"
+
+		"DOTA_Tooltip_Ability_C05R_old" "雷擊"
+		"DOTA_Tooltip_Ability_C05R_old_Description" "近距離用長槍電擊敵人，造成<font color='#5cb85c'>(150/250/350/450)</font>傷害並昏迷<font color='#5cb85c'>(0.5/1/1.5/2)</font>秒。"
+
+		"DOTA_Tooltip_Ability_C05T_old" "雷鳴豪槍"
+		"DOTA_Tooltip_Ability_C05T_old_Description" "攻擊造成每秒<font color='#5cb85c'>(60/100/150)</font>點的電傷，並減緩目標<font color='#5cb85c'>(40/60/80)% </font>攻擊速度，持續7秒。"
+
+		"DOTA_Tooltip_modifier_C05W_old_buff" "騎術"
+		"DOTA_Tooltip_modifier_C05W_old_buff_Description" "提升攻擊與移動速度。"
+
+		"DOTA_Tooltip_modifier_C05E_old_debuff" "雷舞"
+		"DOTA_Tooltip_modifier_C05E_old_debuff_Description" "降低攻擊與移動速度。"
+
+		"DOTA_Tooltip_modifier_C05T_old_debuff" "雷鳴豪槍"
+		"DOTA_Tooltip_modifier_C05T_old_debuff_Description" "降低攻擊速度，持續造成傷害。"
 	}
 }
