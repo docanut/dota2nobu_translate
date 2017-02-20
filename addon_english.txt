@@ -1930,206 +1930,206 @@
 		// 道具-修改器
 		// -------------------------------------------------------------------------------------
 
-		"DOTA_Tooltip_modifier_the_overflame_art_of_war" "大炎上之書"
-		"DOTA_Tooltip_modifier_the_overflame_art_of_war_Description" ""
+		"DOTA_Tooltip_modifier_the_overflame_art_of_war" "The Book of Eternal Flames"
+		"DOTA_Tooltip_modifier_the_overflame_art_of_war_Description" "Deals massive damage over time"
 
-		"DOTA_Tooltip_modifier_rockfall" "暈眩"
-		"DOTA_Tooltip_modifier_rockfall_Description" ""
+		"DOTA_Tooltip_modifier_rockfall" "Stunned"
+		"DOTA_Tooltip_modifier_rockfall_Description" "Stunned"
 
-		"DOTA_Tooltip_modifier_perceive_wine" "抗魔"
-		"DOTA_Tooltip_modifier_perceive_wine_Description" "魔法免疫。"
+		"DOTA_Tooltip_modifier_perceive_wine" "Magic Immunity"
+		"DOTA_Tooltip_modifier_perceive_wine_Description" "Magic Immunity"
 
-		"DOTA_Tooltip_modifier_item_mountain_scroll" "不動如山"
-		"DOTA_Tooltip_modifier_item_mountain_scroll_Description" "提升物理防禦。"
+		"DOTA_Tooltip_modifier_item_mountain_scroll" "Strong as the Mountains"
+		"DOTA_Tooltip_modifier_item_mountain_scroll_Description" "Increased physical defense"
 
-		"DOTA_Tooltip_modifier_item_fire_scroll" "侵略如火"
-		"DOTA_Tooltip_modifier_item_fire_scroll_Description" "提升物理攻擊。"
+		"DOTA_Tooltip_modifier_item_fire_scroll" "Aggression of Fire"
+		"DOTA_Tooltip_modifier_item_fire_scroll_Description" "Increased physical attack"
 
-		"DOTA_Tooltip_modifier_item_art_of_war_flame_chapter" "孫子兵法．火之章"
-		"DOTA_Tooltip_modifier_item_art_of_war_flame_chapter_Description" "提升物理攻擊。"
+		"DOTA_Tooltip_modifier_item_art_of_war_flame_chapter" "The Art of War, Flame Chapter"
+		"DOTA_Tooltip_modifier_item_art_of_war_flame_chapter_Description" "Increased physical attack"
 
-		"DOTA_Tooltip_modifier_item_art_of_war_flame_chapter_3" "孫子兵法．火之章"
-		"DOTA_Tooltip_modifier_item_art_of_war_flame_chapter_3_Description" "提升物理攻擊。"
+		"DOTA_Tooltip_modifier_item_art_of_war_flame_chapter_3" "The Art of War, Flame Chapter Upgraded"
+		"DOTA_Tooltip_modifier_item_art_of_war_flame_chapter_3_Description" "Increased physical attack"
 
-		"DOTA_Tooltip_modifier_item_wind_scroll" "疾如風"
-		"DOTA_Tooltip_modifier_item_wind_scroll_Description" "提升移動速度。"
+		"DOTA_Tooltip_modifier_item_wind_scroll" "Zephyr Winds"
+		"DOTA_Tooltip_modifier_item_wind_scroll_Description" "Increased movement speed"
 
-		"DOTA_Tooltip_modifier_art_of_war_tornado_chapter" "孫子兵法．風之章"
-		"DOTA_Tooltip_modifier_art_of_war_tornado_chapter_Description" "提升移動速度。"
+		"DOTA_Tooltip_modifier_art_of_war_tornado_chapter" "The Art of War, Wind Chapter"
+		"DOTA_Tooltip_modifier_art_of_war_tornado_chapter_Description" "Increased movement speed"
 
-		"DOTA_Tooltip_modifier_dead" "招喚物"
-		"DOTA_Tooltip_modifier_dead_Description" "時間到會自動死亡。"
+		"DOTA_Tooltip_modifier_dead" "Summoning"
+		"DOTA_Tooltip_modifier_dead_Description" "When the time is up, it will automatically die"
 
-		"DOTA_Tooltip_modifier_forest_chapter" "林之章"
-		"DOTA_Tooltip_modifier_forest_chapter_Description" "提升攻擊速度。"
+		"DOTA_Tooltip_modifier_forest_chapter" "Forest Chapter"
+		"DOTA_Tooltip_modifier_forest_chapter_Description" "Increased attack speed"
 
-		"DOTA_Tooltip_modifier_spell_book_friendly" "再生之術。"
-		"DOTA_Tooltip_modifier_spell_book_friendly_Description" "提升生命回復能力。"
+		"DOTA_Tooltip_modifier_spell_book_friendly" "Meditation Tactics"
+		"DOTA_Tooltip_modifier_spell_book_friendly_Description" "Increased health regeneration"
 
-		"DOTA_Tooltip_modifier_spell_book_enemy" "遲緩之術"
-		"DOTA_Tooltip_modifier_spell_book_enemy_Description" "降低移動速度。"
+		"DOTA_Tooltip_modifier_spell_book_enemy" "The Book of Cripple"
+		"DOTA_Tooltip_modifier_spell_book_enemy_Description" "Decrease enemy's movement speed"
 
-		"DOTA_Tooltip_modifier_flame_armor_aura" "靈氣．燃燒"
-		"DOTA_Tooltip_modifier_flame_armor_aura_Description" "持續對附近敵人造成燃燒傷害。"
+		"DOTA_Tooltip_modifier_flame_armor_aura" "Reiki: Burn"
+		"DOTA_Tooltip_modifier_flame_armor_aura_Description" "Deals burning damage to enemies nearby every second"
 
-		"DOTA_Tooltip_modifier_flame_armor_debuff" "燃燒"
-		"DOTA_Tooltip_modifier_flame_armor_debuff_Description" "持續造成燃燒傷害。"
+		"DOTA_Tooltip_modifier_flame_armor_debuff" "Burn"
+		"DOTA_Tooltip_modifier_flame_armor_debuff_Description" "Deals burning damage every second"
 
-		"DOTA_Tooltip_modifier_sword_of_invincible" "禦神術"
-		"DOTA_Tooltip_modifier_sword_of_invincible_Description" "無敵。"
+		"DOTA_Tooltip_modifier_sword_of_invincible" "Light of God"
+		"DOTA_Tooltip_modifier_sword_of_invincible_Description" "Invincible"
 
-		"DOTA_Tooltip_modifier_soul_adder" "御魂"
-		"DOTA_Tooltip_modifier_soul_adder_Description" "無敵但無法動作。"
+		"DOTA_Tooltip_modifier_soul_adder" "Soul Adder"
+		"DOTA_Tooltip_modifier_soul_adder_Description" "Invincible, but unable to take any action"
 
-		"DOTA_Tooltip_modifier_soul_adder2" "御魂"
-		"DOTA_Tooltip_modifier_soul_adder2_Description" "加深遭受的魔法傷害。"
+		"DOTA_Tooltip_modifier_soul_adder2" "Soul Adder"
+		"DOTA_Tooltip_modifier_soul_adder2_Description" "Increased magic damage taken"
 
-		"DOTA_Tooltip_modifier_variety_tachi" "長捲"
-		"DOTA_Tooltip_modifier_variety_tachi_Description" "提升攻擊速度。"
+		"DOTA_Tooltip_modifier_variety_tachi" "Long Scroll"
+		"DOTA_Tooltip_modifier_variety_tachi_Description" "Increased attack speed"
 
-		"DOTA_Tooltip_modifier_item_D03" "皆朱槍"
-		"DOTA_Tooltip_modifier_item_D03_Description" "提升攻擊力。"
+		"DOTA_Tooltip_modifier_item_D03" "Rifling Gun"
+		"DOTA_Tooltip_modifier_item_D03_Description" "Increased attack damage"
 
-		"DOTA_Tooltip_modifier_sakabatou" "暈眩"
-		"DOTA_Tooltip_modifier_sakabatou_Description" ""
+		"DOTA_Tooltip_modifier_sakabatou" "Stunned"
+		"DOTA_Tooltip_modifier_sakabatou_Description" "Stunned"
 
-		"DOTA_Tooltip_modifier_great_sword_of_disease" "池田鬼神丸國重"
-		"DOTA_Tooltip_modifier_great_sword_of_disease_Description" "提升攻擊力。"
+		"DOTA_Tooltip_modifier_great_sword_of_disease" "Sword of Disease"
+		"DOTA_Tooltip_modifier_great_sword_of_disease_Description" "Increased attack damage"
 
-		"DOTA_Tooltip_modifier_the_great_sword_of_soul" "攝魂"
-		"DOTA_Tooltip_modifier_the_great_sword_of_soul_Description" "無法使用法術與物品。"
+		"DOTA_Tooltip_modifier_the_great_sword_of_soul" "Deception"
+		"DOTA_Tooltip_modifier_the_great_sword_of_soul_Description" "Unable to cast spells and use items"
 
-		"DOTA_Tooltip_modifier_great_sword_of_anger" "暈眩"
-		"DOTA_Tooltip_modifier_great_sword_of_anger_Description" ""
+		"DOTA_Tooltip_modifier_great_sword_of_anger" "Stunned"
+		"DOTA_Tooltip_modifier_great_sword_of_anger_Description" "Stunned"
 
-		"DOTA_Tooltip_modifier_great_sword_of_tiger" "暈眩"
-		"DOTA_Tooltip_modifier_great_sword_of_tiger_Description" ""
+		"DOTA_Tooltip_modifier_great_sword_of_tiger" "Stunned"
+		"DOTA_Tooltip_modifier_great_sword_of_tiger_Description" "Stunned"
 
-		"DOTA_Tooltip_modifier_muramasa" "妖刀．村正"
-		"DOTA_Tooltip_modifier_muramasa_Description" "提升攻擊速度。"
+		"DOTA_Tooltip_modifier_muramasa" "Muramasa"
+		"DOTA_Tooltip_modifier_muramasa_Description" "Increased attack speed"
 
-		"DOTA_Tooltip_modifier_great_sword_of_hurricane_aura" "風陣"
+		"DOTA_Tooltip_modifier_great_sword_of_hurricane_aura" "Hurricane Aura"
 		"DOTA_Tooltip_modifier_great_sword_of_hurricane_aura_Description" ""
 
-		"DOTA_Tooltip_modifier_great_sword_of_hurricane_debuff" "風陣"
-		"DOTA_Tooltip_modifier_great_sword_of_hurricane_debuff_Description" "大幅降低攻擊速度，降低物理防禦。"
+		"DOTA_Tooltip_modifier_great_sword_of_hurricane_debuff" "Hurricane aura"
+		"DOTA_Tooltip_modifier_great_sword_of_hurricane_debuff_Description" "Greatly decreased attacl speed, and decreased physical defense"
 
-		"DOTA_Tooltip_modifier_great_sword_of_spike2" "地獄尖刺"
-		"DOTA_Tooltip_modifier_great_sword_of_spike2_Description" "暈眩並無敵。"
+		"DOTA_Tooltip_modifier_great_sword_of_spike2" "Spikes of Hell"
+		"DOTA_Tooltip_modifier_great_sword_of_spike2_Description" "Stunned but invincible"
 
-		"DOTA_Tooltip_modifier_great_sword_of_spike" "地獄尖刺"
-		"DOTA_Tooltip_modifier_great_sword_of_spike_Description" "暈眩。"
+		"DOTA_Tooltip_modifier_great_sword_of_spike" "Spikes of Hell"
+		"DOTA_Tooltip_modifier_great_sword_of_spike_Description" "Stunned"
 
-		"DOTA_Tooltip_modifier_the_great_sword_of_toxic" "梅鶯毒"
-		"DOTA_Tooltip_modifier_the_great_sword_of_toxic_Description" "降低移動速度。"
+		"DOTA_Tooltip_modifier_the_great_sword_of_toxic" "Sword of Toxic"
+		"DOTA_Tooltip_modifier_the_great_sword_of_toxic_Description" "Decreased movement speed"
 
-		"DOTA_Tooltip_modifier_great_sword_of_teleport" "陸奧守吉行"
-		"DOTA_Tooltip_modifier_great_sword_of_teleport_Description" "傳送中...。"
+		"DOTA_Tooltip_modifier_great_sword_of_teleport" "Great Sword of Teleports"
+		"DOTA_Tooltip_modifier_great_sword_of_teleport_Description" "Teleporting..."
 
-		"DOTA_Tooltip_modifier_great_sword_of_banish" "放逐"
-		"DOTA_Tooltip_modifier_great_sword_of_banish_Description" "無法攻擊，免疫物理傷害，降低移動速度，遭受魔法傷害加深。"
+		"DOTA_Tooltip_modifier_great_sword_of_banish" "Exile"
+		"DOTA_Tooltip_modifier_great_sword_of_banish_Description" "Unable to attack, immune to physical damage, decreased movement speed, takes extra magic damage"
 
-		"DOTA_Tooltip_modifier_great_sword_of_berserker" "數珠丸恆次"
-		"DOTA_Tooltip_modifier_great_sword_of_berserker_Description" "大幅增加戰鬥力，但遭受傷害也會增加。"
+		"DOTA_Tooltip_modifier_great_sword_of_berserker" "Great Sword of the Berserker"
+		"DOTA_Tooltip_modifier_great_sword_of_berserker_Description" "Greatly increased battle power, but takes extra damage from all sources."
 
-		"DOTA_Tooltip_modifier_great_sword_of_disarmament21" "靈氣．童子切安鋼"
-		"DOTA_Tooltip_modifier_great_sword_of_disarmament21_Description" "提升靈活。"
+		"DOTA_Tooltip_modifier_great_sword_of_disarmament21" "Reiki: Chopping Steel"
+		"DOTA_Tooltip_modifier_great_sword_of_disarmament21_Description" "Increased agility"
 
-		"DOTA_Tooltip_modifier_great_sword_of_disarmament22" "童子切安鋼"
-		"DOTA_Tooltip_modifier_great_sword_of_disarmament22_Description" "降低物理防禦。"
+		"DOTA_Tooltip_modifier_great_sword_of_disarmament22" "Chopping Steel"
+		"DOTA_Tooltip_modifier_great_sword_of_disarmament22_Description" "Decreased physical defense"
 
-		"DOTA_Tooltip_modifier_great_sword_of_disarmament" "童子切安鋼"
-		"DOTA_Tooltip_modifier_great_sword_of_disarmament_Description" "降低物理防禦。"
+		"DOTA_Tooltip_modifier_great_sword_of_disarmament" "Chopping Steel"
+		"DOTA_Tooltip_modifier_great_sword_of_disarmament_Description" "Decreased physical defense"
 
-		"DOTA_Tooltip_modifier_ancient_doll" "堆疊"
+		"DOTA_Tooltip_modifier_ancient_doll" "Stacking"
 		"DOTA_Tooltip_modifier_ancient_doll_Description" ""
 
-		"DOTA_Tooltip_modifier_ninja_sword" "迷蹤步"
-		"DOTA_Tooltip_modifier_ninja_sword_Description" "提升移動速度並隱去身形。"
+		"DOTA_Tooltip_modifier_ninja_sword" "Ghost Walk"
+		"DOTA_Tooltip_modifier_ninja_sword_Description" "Increased movement speed and goes invisible"
 
-		"DOTA_Tooltip_modifier_frozen_ring" "冰凍"
-		"DOTA_Tooltip_modifier_frozen_ring_Description" "降低移動速度與攻擊速度。"
+		"DOTA_Tooltip_modifier_frozen_ring" "Ice Cold"
+		"DOTA_Tooltip_modifier_frozen_ring_Description" "Decreased movement and attack speed"
 
-		"DOTA_Tooltip_modifier_commander_of_fan1" "統率者鐵扇"
-		"DOTA_Tooltip_modifier_commander_of_fan1_Description" "無法使用技能與物品。"
+		"DOTA_Tooltip_modifier_commander_of_fan1" "Commander's Fan"
+		"DOTA_Tooltip_modifier_commander_of_fan1_Description" "Unable to use skills or items"
 
-		"DOTA_Tooltip_modifier_commander_of_fan2" "統率者鐵扇"
-		"DOTA_Tooltip_modifier_commander_of_fan2_Description" "無法使用技能與物品。"
+		"DOTA_Tooltip_modifier_commander_of_fan2" "Commander's Fan"
+		"DOTA_Tooltip_modifier_commander_of_fan2_Description" "Unable to use skills or items"
 
-		"DOTA_Tooltip_modifier_commander_of_fan3" "統率者鐵扇"
-		"DOTA_Tooltip_modifier_commander_of_fan3_Description" "無法使用技能與物品。"
+		"DOTA_Tooltip_modifier_commander_of_fan3" "Commander's Fan"
+		"DOTA_Tooltip_modifier_commander_of_fan3_Description" "Unable to use skills or items"
 
-		"DOTA_Tooltip_modifier_spear_of_saddle" "破甲"
-		"DOTA_Tooltip_modifier_spear_of_saddle_Description" "降低物理防禦。"
+		"DOTA_Tooltip_modifier_spear_of_saddle" "Armour Break"
+		"DOTA_Tooltip_modifier_spear_of_saddle_Description" "Decrease physical defense"
 
-		"DOTA_Tooltip_modifier_spear_of_spiders" "蜘蛛切"
-		"DOTA_Tooltip_modifier_spear_of_spiders_Description" "降低移動速度。"
+		"DOTA_Tooltip_modifier_spear_of_spiders" "Spider Spear"
+		"DOTA_Tooltip_modifier_spear_of_spiders_Description" "Decreased movement speed"
 
-		"DOTA_Tooltip_modifier_frost_bite_root_datadriven" "冰封"
-		"DOTA_Tooltip_modifier_frost_bite_root_datadriven_Description" "無法動作並持續造成傷害。"
+		"DOTA_Tooltip_modifier_frost_bite_root_datadriven" "Glacier Seal"
+		"DOTA_Tooltip_modifier_frost_bite_root_datadriven_Description" "Unable to take action and takes damage over time"
 
-		"DOTA_Tooltip_modifier_blade_of_blood_devourer" "嗜血"
-		"DOTA_Tooltip_modifier_blade_of_blood_devourer_Description" "提升攻擊力，獲得物理吸血。"
+		"DOTA_Tooltip_modifier_blade_of_blood_devourer" "Bloodthirst"
+		"DOTA_Tooltip_modifier_blade_of_blood_devourer_Description" "Increased attack damage and grants lifesteal"
 
-		"DOTA_Tooltip_modifier_bizennosafunekanemitsu" "備前兼光"
-		"DOTA_Tooltip_modifier_bizennosafunekanemitsu_Description" "提升生命回復能力與攻擊力。"
+		"DOTA_Tooltip_modifier_bizennosafunekanemitsu" "Light of Dawn"
+		"DOTA_Tooltip_modifier_bizennosafunekanemitsu_Description" "Increased health regeneration and attack damage"
 
-		"DOTA_Tooltip_item_the_scream_of_spiders" "鬼蜘蛛．夜哭"
-		"DOTA_Tooltip_item_the_scream_of_spiders_Description" "被蜘蛛嚇到腿軟，降低移動速度。"
+		"DOTA_Tooltip_item_the_scream_of_spiders" "Ghost Spider: Scream"
+		"DOTA_Tooltip_item_the_scream_of_spiders_Description" "Scared by spider, decreased movement speed"
 
-		"DOTA_Tooltip_modifier_the_soul_of_power" "分靈之諾"
-		"DOTA_Tooltip_modifier_the_soul_of_power_Description" "死後可以在原地復活。"
+		"DOTA_Tooltip_modifier_the_soul_of_power" "Splitting Souls"
+		"DOTA_Tooltip_modifier_the_soul_of_power_Description" "After death, can revive at the spot of death"
 
-		"DOTA_Tooltip_modifier_dark_armor" "黑漆塗五枚胴"
-		"DOTA_Tooltip_modifier_dark_armor_Description" "提升生命與法力的回復速度。"
+		"DOTA_Tooltip_modifier_dark_armor" "Black Painted Armour"
+		"DOTA_Tooltip_modifier_dark_armor_Description" "Increased health and mana regeneration"
 
-		"DOTA_Tooltip_modifier_poketto_of_meiso" "靜心兜"
-		"DOTA_Tooltip_modifier_poketto_of_meiso_Description" "提升生命與法力的回復速度。"
+		"DOTA_Tooltip_modifier_poketto_of_meiso" "Meditation Pocket"
+		"DOTA_Tooltip_modifier_poketto_of_meiso_Description" "Increased health and mana regeneration"
 
-		"DOTA_Tooltip_modifier_ghost_mask" "鬼面"
-		"DOTA_Tooltip_modifier_ghost_mask_Description" "提升攻擊力，獲得物理吸血。"
+		"DOTA_Tooltip_modifier_ghost_mask" "Ghost Mask"
+		"DOTA_Tooltip_modifier_ghost_mask_Description" "Increased attack damage and grants lifesteal"
 
-		"DOTA_Tooltip_modifier_satsuma_gun" "薩摩銃"
-		"DOTA_Tooltip_modifier_satsuma_gun_Description" "被槍打到，竟然只有暈眩。"
+		"DOTA_Tooltip_modifier_satsuma_gun" "Satsuma Gun"
+		"DOTA_Tooltip_modifier_satsuma_gun_Description" "Got hit by a gun, but surprisingly it's only a stun"
 
-		"DOTA_Tooltip_modifier_art_of_war_mountain_chapter" "孫子兵法．山之章"
-		"DOTA_Tooltip_modifier_art_of_war_mountain_chapter_Description" "提升物理防禦。"
+		"DOTA_Tooltip_modifier_art_of_war_mountain_chapter" "The Art of War, Mountain Chapter"
+		"DOTA_Tooltip_modifier_art_of_war_mountain_chapter_Description" "Increased physical defense"
 
-		"DOTA_Tooltip_modifier_art_of_war_mountain_chapter2" "孫子兵法．山之章"
-		"DOTA_Tooltip_modifier_art_of_war_mountain_chapter2_Description" "提升物理防禦。"
+		"DOTA_Tooltip_modifier_art_of_war_mountain_chapter2" "The Art of War, Mountain Chapter"
+		"DOTA_Tooltip_modifier_art_of_war_mountain_chapter2_Description" "Increased physical defense"
 
-		"DOTA_Tooltip_modifier_art_of_war_mountain_chapter3" "孫子兵法．山之章"
-		"DOTA_Tooltip_modifier_art_of_war_mountain_chapter3_Description" "提升物理防禦。"
+		"DOTA_Tooltip_modifier_art_of_war_mountain_chapter3" "The Art of War, Mountain Chapter"
+		"DOTA_Tooltip_modifier_art_of_war_mountain_chapter3_Description" "Increased physical defense"
 
-		"DOTA_Tooltip_modifier_lost_art_of_war_1" "孫子兵法殘冊"
+		"DOTA_Tooltip_modifier_lost_art_of_war_1" "The Art of War's Blueprints"
 		"DOTA_Tooltip_modifier_lost_art_of_war_1_Description" ""
 
-		"DOTA_Tooltip_modifier_lost_art_of_war_2" "孫子兵法斷簡"
+		"DOTA_Tooltip_modifier_lost_art_of_war_2" "The Art of War's Breakdown"
 		"DOTA_Tooltip_modifier_lost_art_of_war_2_Description" ""
 
-		"DOTA_Tooltip_modifier_art_of_war" "孫子兵法全本"
+		"DOTA_Tooltip_modifier_art_of_war" "The Art of War's Complete Book"
 		"DOTA_Tooltip_modifier_art_of_war_Description" ""
 
-		"DOTA_Tooltip_modifier_flood_book" "水計"
-		"DOTA_Tooltip_modifier_flood_book_Description" "被水沖暈。"
+		"DOTA_Tooltip_modifier_flood_book" "Flood Book"
+		"DOTA_Tooltip_modifier_flood_book_Description" "Stunned by a flood"
 
-		"DOTA_Tooltip_modifier_ice_creator" "冰風球"
-		"DOTA_Tooltip_modifier_ice_creator_Description" "持續向四周射出冰錐。"
+		"DOTA_Tooltip_modifier_ice_creator" "Ice Hail"
+		"DOTA_Tooltip_modifier_ice_creator_Description" "Continuously fires ice shards in all directions"
 
-		"DOTA_Tooltip_modifier_ignite_book" "火計"
-		"DOTA_Tooltip_modifier_ignite_book_Description" "持續造成傷害。"
+		"DOTA_Tooltip_modifier_ignite_book" "Flame Book"
+		"DOTA_Tooltip_modifier_ignite_book_Description" "Deals damage over time"
 
-		"DOTA_Tooltip_modifier_shuriken" "暈眩"
-		"DOTA_Tooltip_modifier_shuriken_Description" ""
+		"DOTA_Tooltip_modifier_shuriken" "Stunned"
+		"DOTA_Tooltip_modifier_shuriken_Description" "Stunned"
 
-		"DOTA_Tooltip_modifier_blowgun" "暈眩"
-		"DOTA_Tooltip_modifier_blowgun_Description" ""
+		"DOTA_Tooltip_modifier_blowgun" "Stunned"
+		"DOTA_Tooltip_modifier_blowgun_Description" "Stunned"
 
-		"DOTA_Tooltip_modifier_the_great_sword_of_soul_hyper" "真．攝魂"
+		"DOTA_Tooltip_modifier_the_great_sword_of_soul_hyper" "True: Deception"
 		"DOTA_Tooltip_modifier_the_great_sword_of_soul_hyper_Description" ""
 
-		"DOTA_Tooltip_modifier_kat_steel" "暈眩"
-		"DOTA_Tooltip_modifier_kat_steel_Description" ""
+		"DOTA_Tooltip_modifier_kat_steel" "Stunned"
+		"DOTA_Tooltip_modifier_kat_steel_Description" "Stunned"
 
 		// -------------------------------------------------------------------------------------
 		// 英雄-修改器
