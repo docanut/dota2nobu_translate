@@ -482,7 +482,7 @@
 		"DOTA_Tooltip_Ability_item_the_great_sword_of_invincible_Description" "攻擊傷害+40，全能力+30。【使用】釋放禦神術，使自身進入無敵狀態，免疫所有傷害以及法術效果，持續2秒。"
 
 		"DOTA_Tooltip_Ability_item_the_great_spear_of_dragonfly" "蜻蛉切．銘槍"
-		"DOTA_Tooltip_Ability_item_the_great_spear_of_dragonfly_Description" "攻擊傷害+50，力量+25。增加15% 移動速度。每秒回復1% 最大生命值。攻擊時有20% 機率可以造成300的擴散傷害。"
+		"DOTA_Tooltip_Ability_item_the_great_spear_of_dragonfly_Description" "攻擊傷害+50，力量+25。攻擊時有20% 機率可以造成300的擴散傷害。唯一被動：增加15% 移動速度，每秒回復1% 最大生命值。"
 
 		"DOTA_Tooltip_Ability_item_the_great_sword_of_hurricane" "鐵碎牙．妖刀"
 		"DOTA_Tooltip_Ability_item_the_great_sword_of_hurricane_Description" "攻擊傷害+60，護甲+10。每1.0秒隨機對周圍的一個敵人釋放風之傷，可以造成320傷害。【使用】召喚風陣，風陣內的所有敵人減慢190% 攻速，降低10護甲，持續20秒。<font color='#cc0000'>裝備鐵碎牙者，其分身同樣具有鐵碎牙被動傷害效果。</font>"
@@ -1190,7 +1190,7 @@
 		"DOTA_Tooltip_Ability_B15R_old"	"巨人之外皮"
 		"DOTA_Tooltip_Ability_B15R_old_Description"	"減少<font color='#5cb85c'>(40/80/120/160)</font>點物理傷害。"
 		"DOTA_Tooltip_Ability_B15T_old"	"多重箭"
-		"DOTA_Tooltip_Ability_B15T_old_Description"	"額外增加<font color='#5cb85c'>(3/4/5)</font>隻箭。"
+		"DOTA_Tooltip_Ability_B15T_old_Description"	"額外增加<font color='#5cb85c'>(2/4/5)</font>隻箭。"
 		
 		"DOTA_Tooltip_modifier_searing_arrow"	"烈焰箭"
 		"DOTA_Tooltip_modifier_searing_arrow_Description"	"烈焰箭"
@@ -1705,16 +1705,6 @@
 
 		"DOTA_Tooltip_Ability_B03T" "鍾馗之審判"
 		"DOTA_Tooltip_Ability_B03T_Description" "當啟動鍾馗之審判，將可以增加自身100% 攻速以及17% 移動速度，並在接下來每0.8秒隨機對周圍的敵軍自動投擲審判之鎚，審判之鎚擊中將可以造成<font color='#5cb85c'>(60/80/100)</font>傷害並暈眩0.38秒，總共可以投擲<font color='#5cb85c'>(30/35/40)</font>次。"
-
-
-		"DOTA_Tooltip_Ability_B04W" "踏火無痕"
-		"DOTA_Tooltip_Ability_B04W_Description" "衝刺到指定地點，隨機對附近的敵人釋放<font color='#5cb85c'>(100/200/300/400)</font>傷害的火焰，最遠可以衝刺<font color='#5cb85c'>(600/700/800/900)</font>距離。"
-		"DOTA_Tooltip_Ability_B04E" "火焰強襲"
-		"DOTA_Tooltip_Ability_B04E_Description" "施展一道巨型火焰，對範圍內敵人造成<font color='#5cb85c'>(150/250/350/450)</font>傷害並暈眩<font color='#5cb85c'>(0.5/0.8/1.1/1.4)</font>秒。"
-		"DOTA_Tooltip_Ability_B04R" "炎之迅捷"
-		"DOTA_Tooltip_Ability_B04R_Description" "永久提升<font color='#5cb85c'>(8/16/24/32)</font>點的靈活。"
-		"DOTA_Tooltip_Ability_B04T" "種子島"
-		"DOTA_Tooltip_Ability_B04T_Description" "使用威力強大的種子島鐵砲，具有800遠距離攻擊，增加<font color='#5cb85c'>(50/70/90)</font>基礎攻擊力，並使用新式彈藥，有38% 機率讓敵人產生0.22秒的停頓，持續<font color='#5cb85c'>(28/32/36)</font>秒。
 
 		"DOTA_Tooltip_Ability_B05W" "鏈鎖閃電"
 		"DOTA_Tooltip_Ability_B05W_Description" "丟出一道閃電束在<font color='#5cb85c'>(5/7/9/11)</font>個敵人之間彈跳，造成<font color='#5cb85c'>(150/300/450/600)</font>傷害。"
@@ -2769,10 +2759,10 @@
 		// 葵紋越前康繼．禦神刀 11.2B
 
 		"DOTA_Tooltip_Ability_item_the_great_sword_of_sunflower_pattern_echizen_kang_following" "真．葵紋越前康繼．禦神刀"
-		"DOTA_Tooltip_Ability_item_the_great_sword_of_sunflower_pattern_echizen_kang_following_Description" "攻擊+50，所有能力+30 [使用]使用禦神術，可讓受到的50% 傷害讓周圍600內的友方一起分享。持續21秒。"
+		"DOTA_Tooltip_Ability_item_the_great_sword_of_sunflower_pattern_echizen_kang_following_Description" "攻擊+50，所有能力+30【使用】使用禦神術，可讓受到的50% 傷害讓周圍600內的友方一起分享。持續21秒。"
 
 		"DOTA_Tooltip_modifier_item_the_great_sword_of_sunflower_pattern_echizen_kang_following_aura" "好東西要與好朋友分享"
-		"DOTA_Tooltip_modifier_item_the_great_sword_of_sunflower_pattern_echizen_kang_following_aura_Description" "分享受到的傷害。"
+		"DOTA_Tooltip_modifier_item_the_great_sword_of_sunflower_pattern_echizen_kang_following_aura_Description" "分享受到的傷害給隊友。"
 
 		"DOTA_Tooltip_modifier_item_the_great_sword_of_sunflower_pattern_echizen_kang_following_linker" "不要連我"
 		"DOTA_Tooltip_modifier_item_the_great_sword_of_sunflower_pattern_echizen_kang_following_linker_Description" "幫忙承受部分傷害。"
@@ -2783,6 +2773,43 @@
 		"DOTA_Tooltip_Ability_item_the_great_sword_of_iron_fragmentor_Description" "攻擊+60，裝甲+10，生命+500【使用】施展風之傷，每秒對500範圍內所有敵人造成800傷害，持續13秒。"
 		
 		"DOTA_Tooltip_Ability_item_the_great_spear_of_dragonfly_x" "真．蜻蛉切．銘槍"
-		"DOTA_Tooltip_Ability_item_the_great_spear_of_dragonfly_x_Description" "攻擊傷害+44，力量+26。增加15% 移動速度70% 攻速。每秒回復2% 最大生命值。"
+		"DOTA_Tooltip_Ability_item_the_great_spear_of_dragonfly_x_Description" "攻擊傷害+44，力量+26。增加70% 攻速。唯一被動：每秒回復2% 最大生命值15% 移動速度。"
+
+		// 伊達政宗
+
+		"npc_dota_hero_clinkz" "伊達政宗"
+		"npc_dota_hero_clinkz_hype" "伊達家17代當主，伊達輝宗之子。幼年時因病失去右眼，從此眾人便以「獨眼龍」稱之。其父死後，他在郡山合戰、摺上原合戰都獲得大勝，勢力擴張到會津；又在最上義光的爭執和家督爭奪中，數度克服障礙，終於將奧州全土納入版圖。然而，正當政宗欲趁勢南下，當時時勢卻事與願違，天下大半已落入豐臣秀吉手裡，豐臣秀吉死後又有德川家康建立幕府，亂世於是終焉。政宗雖然大嘆時不我予，但雄心大志未滅，及至臨終前仍然於奧州之地窺覬著天下。"
+
+		"DOTA_Tooltip_Ability_B04W" "踏火無痕"
+		"DOTA_Tooltip_Ability_B04W_Description" "衝刺到指定地點，隨機對附近的敵人釋放<font color='#5cb85c'>(100/200/300/400)</font>傷害的火焰，最遠可以衝刺<font color='#5cb85c'>(600/700/800/900)</font>距離。"
+		"DOTA_Tooltip_Ability_B04E" "火焰強襲"
+		"DOTA_Tooltip_Ability_B04E_Description" "施展一道巨型火焰，對範圍內敵人造成<font color='#5cb85c'>(150/250/350/450)</font>傷害並暈眩<font color='#5cb85c'>(0.5/0.8/1.1/1.4)</font>秒。"
+		"DOTA_Tooltip_Ability_B04R" "炎之迅捷"
+		"DOTA_Tooltip_Ability_B04R_Description" "永久提升<font color='#5cb85c'>(8/16/24/32)</font>點的靈活。"
+		"DOTA_Tooltip_Ability_B04T" "種子島"
+		"DOTA_Tooltip_Ability_B04T_Description" "使用威力強大的種子島鐵砲，具有800遠距離攻擊，增加<font color='#5cb85c'>(50/70/90)</font>基礎攻擊力，並使用新式彈藥，有38% 機率讓敵人產生0.22秒的停頓，持續<font color='#5cb85c'>(28/32/36)</font>秒。"
+
+		"DOTA_Tooltip_modifier_B04T" "種子島"
+		"DOTA_Tooltip_modifier_B04T_Description" "變為遠程單位，攻擊有機會造成暈眩。"
+
+		// 伊達政宗 11.2B
+		
+		"DOTA_Tooltip_Ability_B04W_old" "火焰刀"
+		"DOTA_Tooltip_Ability_B04W_old_Description" "往前方揮出一刀，造成<font color='#5cb85c'>(150/300/450/600)</font>的傷害。"
+		
+		"DOTA_Tooltip_Ability_B04E_old" "踏火無痕"
+		"DOTA_Tooltip_Ability_B04E_old_Description" "往前衝刺，只要衝刺時碰撞到敵方部隊每0.1秒給予敵人<font color='#5cb85c'>(50/70/90/110)</font>的傷害。"
+
+		"DOTA_Tooltip_Ability_B04R_old" "火焰強襲"
+		"DOTA_Tooltip_Ability_B04R_old_Description" "施展一道巨型火焰，對範圍500內敵人造成<font color='#5cb85c'>(200/300/400/500)</font>傷害並擊暈<font color='#5cb85c'>(0.3/0.6/0.9/1.2)</font>秒。"
+
+		"DOTA_Tooltip_Ability_B04D_old" "靈活加成"
+		"DOTA_Tooltip_Ability_B04D_old_Description" "增加<font color='#5cb85c'>(8/16/24/32)</font>點敏捷。"
+
+		"DOTA_Tooltip_Ability_B04T_old" "火繩銃"
+		"DOTA_Tooltip_Ability_B04T_old_Description" "將武器轉換成火繩銃：具有<font color='#5cb85c'>(700/800/900)</font>攻擊距離，增加基礎攻擊力<font color='#5cb85c'>(30/70/110)</font>點。而且新式彈藥能使攻擊時有80% 機會使敵人暈眩<font color='#5cb85c'>(0.1/0.2/0.3)</font>秒，魔免無效，可持續35秒。"
+
+		"DOTA_Tooltip_modifier_B04T_old" "火繩銃"
+		"DOTA_Tooltip_modifier_B04T_old_Description" "變為遠程單位，攻擊有機會造成暈眩。"
 	}
 }

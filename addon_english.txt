@@ -2744,5 +2744,62 @@
 
 		"DOTA_Tooltip_modifier_C05T_old_debuff" "Howl of Thunder"
 		"DOTA_Tooltip_modifier_C05T_old_debuff_Description" "Decreased attack speed and taking damage over time."
+		
+		// 葵紋越前康繼．禦神刀 11.2B
+
+		"DOTA_Tooltip_Ability_item_the_great_sword_of_sunflower_pattern_echizen_kang_following" "真．葵紋越前康繼．禦神刀"
+		"DOTA_Tooltip_Ability_item_the_great_sword_of_sunflower_pattern_echizen_kang_following_Description" "攻擊+50，所有能力+30【使用】使用禦神術，可讓受到的50% 傷害讓周圍600內的友方一起分享。持續21秒。"
+
+		"DOTA_Tooltip_modifier_item_the_great_sword_of_sunflower_pattern_echizen_kang_following_aura" "好東西要與好朋友分享"
+		"DOTA_Tooltip_modifier_item_the_great_sword_of_sunflower_pattern_echizen_kang_following_aura_Description" "分享受到的傷害給隊友。"
+
+		"DOTA_Tooltip_modifier_item_the_great_sword_of_sunflower_pattern_echizen_kang_following_linker" "不要連我"
+		"DOTA_Tooltip_modifier_item_the_great_sword_of_sunflower_pattern_echizen_kang_following_linker_Description" "幫忙承受部分傷害。"
+
+		// 鐵碎牙．妖刀 11.2B
+
+		"DOTA_Tooltip_Ability_item_the_great_sword_of_iron_fragmentor" "真．鐵碎牙．妖刀"
+		"DOTA_Tooltip_Ability_item_the_great_sword_of_iron_fragmentor_Description" "攻擊+60，裝甲+10，生命+500【使用】施展風之傷，每秒對500範圍內所有敵人造成800傷害，持續13秒。"
+		
+		"DOTA_Tooltip_Ability_item_the_great_spear_of_dragonfly_x" "真．蜻蛉切．銘槍"
+		"DOTA_Tooltip_Ability_item_the_great_spear_of_dragonfly_x_Description" "攻擊傷害+44，力量+26。增加70% 攻速。唯一被動：每秒回復2% 最大生命值15% 移動速度。"
+
+		// 伊達政宗
+
+		"npc_dota_hero_clinkz" "伊達政宗"
+		"npc_dota_hero_clinkz_hype" "伊達家17代當主，伊達輝宗之子。幼年時因病失去右眼，從此眾人便以「獨眼龍」稱之。其父死後，他在郡山合戰、摺上原合戰都獲得大勝，勢力擴張到會津；又在最上義光的爭執和家督爭奪中，數度克服障礙，終於將奧州全土納入版圖。然而，正當政宗欲趁勢南下，當時時勢卻事與願違，天下大半已落入豐臣秀吉手裡，豐臣秀吉死後又有德川家康建立幕府，亂世於是終焉。政宗雖然大嘆時不我予，但雄心大志未滅，及至臨終前仍然於奧州之地窺覬著天下。"
+
+		"DOTA_Tooltip_Ability_B04W" "踏火無痕"
+		"DOTA_Tooltip_Ability_B04W_Description" "衝刺到指定地點，隨機對附近的敵人釋放<font color='#5cb85c'>(100/200/300/400)</font>傷害的火焰，最遠可以衝刺<font color='#5cb85c'>(600/700/800/900)</font>距離。"
+		"DOTA_Tooltip_Ability_B04E" "火焰強襲"
+		"DOTA_Tooltip_Ability_B04E_Description" "施展一道巨型火焰，對範圍內敵人造成<font color='#5cb85c'>(150/250/350/450)</font>傷害並暈眩<font color='#5cb85c'>(0.5/0.8/1.1/1.4)</font>秒。"
+		"DOTA_Tooltip_Ability_B04R" "炎之迅捷"
+		"DOTA_Tooltip_Ability_B04R_Description" "永久提升<font color='#5cb85c'>(8/16/24/32)</font>點的靈活。"
+		"DOTA_Tooltip_Ability_B04T" "種子島"
+		"DOTA_Tooltip_Ability_B04T_Description" "使用威力強大的種子島鐵砲，具有800遠距離攻擊，增加<font color='#5cb85c'>(50/70/90)</font>基礎攻擊力，並使用新式彈藥，有38% 機率讓敵人產生0.22秒的停頓，持續<font color='#5cb85c'>(28/32/36)</font>秒。"
+
+		"DOTA_Tooltip_modifier_B04T" "種子島"
+		"DOTA_Tooltip_modifier_B04T_Description" "變為遠程單位，攻擊有機會造成暈眩。"
+
+		// 伊達政宗 11.2B
+		
+		"DOTA_Tooltip_Ability_B04W_old" "火焰刀"
+		"DOTA_Tooltip_Ability_B04W_old_Description" "往前方揮出一刀，造成<font color='#5cb85c'>(150/300/450/600)</font>的傷害。"
+		
+		"DOTA_Tooltip_Ability_B04E_old" "踏火無痕"
+		"DOTA_Tooltip_Ability_B04E_old_Description" "往前衝刺，只要衝刺時碰撞到敵方部隊每0.1秒給予敵人<font color='#5cb85c'>(50/70/90/110)</font>的傷害。"
+
+		"DOTA_Tooltip_Ability_B04R_old" "火焰強襲"
+		"DOTA_Tooltip_Ability_B04R_old_Description" "施展一道巨型火焰，對範圍500內敵人造成<font color='#5cb85c'>(200/300/400/500)</font>傷害並擊暈<font color='#5cb85c'>(0.3/0.6/0.9/1.2)</font>秒。"
+
+		"DOTA_Tooltip_Ability_B04D_old" "靈活加成"
+		"DOTA_Tooltip_Ability_B04D_old_Description" "增加<font color='#5cb85c'>(8/16/24/32)</font>點敏捷。"
+
+		"DOTA_Tooltip_Ability_B04T_old" "火繩銃"
+		"DOTA_Tooltip_Ability_B04T_old_Description" "將武器轉換成火繩銃：具有<font color='#5cb85c'>(700/800/900)</font>攻擊距離，增加基礎攻擊力<font color='#5cb85c'>(30/70/110)</font>點。而且新式彈藥能使攻擊時有80% 機會使敵人暈眩<font color='#5cb85c'>(0.1/0.2/0.3)</font>秒，魔免無效，可持續35秒。"
+
+		"DOTA_Tooltip_modifier_B04T_old" "火繩銃"
+		"DOTA_Tooltip_modifier_B04T_old_Description" "變為遠程單位，攻擊有機會造成暈眩。"
+		
 	}
 }
