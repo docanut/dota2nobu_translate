@@ -1,0 +1,20 @@
+參考資料
+1 :Dota 2 Tooltip Formatting(https://developer.valvesoftware.com/wiki/Dota_2_Tooltip_Formatting)
+裡面只有 ":" 以及 "%" 能使用，其他通通用不出來，也無法新增變數。
+變數會新增再 ":" 之後，例如 :
+"DOTA_Tooltip_Ability_A01D_dmg" "顯示傷害:"  --> "顯示傷害: 400"
+"%"使用範例，會在變數後面+%，例如 :
+"DOTA_Tooltip_Ability_A01D_chance" "%機率"   --> "機率25%"
+%與:可複合使用，例如:
+"DOTA_Tooltip_Ability_A01D_chance" "%爆擊機率 : "  --> "爆擊機率:25%"
+
+2:Warcraft III(http://wowwiki.wikia.com/wiki/Warcraft_III:_Reign_of_Chaos)
+有些技能來自WAR3，這網站可以查英文原文
+
+3:Dota2 wiki (https://dota2.gamepedia.com/)
+可以寫出更符合dota2玩家閱讀的說名
+
+4:Tooltips Guide (https://github.com/OpenAngelArena/oaa/blob/master/docs/tooltips-guide.md)
+
+5:(https://www.reddit.com/r/DotA2/comments/5l1ljt/analysis_of_iconstooltips_after_700_part_2_items/)
+一些較清楚的技能描述方式
